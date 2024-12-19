@@ -2,14 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
- asfd fasdf safa df s asf asf asdf asasd fadsfa sfa sas fasf 
- asf 
- asf asf asf asf asf asf ds fas
- ds fas faf fsda 
-
- sdfsfsf s
-
- more test
- 
+1. index.html
